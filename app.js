@@ -81,10 +81,11 @@ app.use((err, req, res, next) => {
 });
 
 mongoose
-  .connect(
-    `mongodb+srv://App_Project:ue76RvCZ23XoXIOB@appcluster.jbd00.mongodb.net/toilink?retryWrites=true&w=majority`,
-    { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true }
-  )
+  .connect(process.env.MONGO_URI, {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useUnifiedTopology: true,
+  })
   .then((result) => {
     console.log("Database Connected!!");
     app.listen(port, () => {
