@@ -76,7 +76,10 @@ we have created sign in/up interface page backed with the power of django framew
 
 > > > Our site also have map feature to give you overview about oublic restrooms around you and your route of journey.
 
+
 ---
+
+
 
 > <span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) _About Us_:</span>
 > Moving in homepage further will give a brief description _about_ our team. Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage.
@@ -88,6 +91,17 @@ we have created sign in/up interface page backed with the power of django framew
 > <span style="color:gold; font-family: Babas; font-size: 1.5em;">3) _Team_:</span> you will finally reach virtually to us and we are glad for that.
 
 > <span style="color:gold; font-family: Babas; font-size: 1.5em;">4) _Contact_:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us and we ensure you to provide with best solution.
+
+---
+
+> <span style="color:gold; font-family: Babas; font-size: 1.5em;">5) Sustainable Goals:</span>
+> At Toi-Link, we are committed to supporting the United Nations Sustainable Development Goals (SDGs) through our website. We believe that access to clean and safe public restrooms is not only a basic human need, but also a crucial aspect of sustainable development. To that end, we have incorporated sustainable practices into our website design and operations. We partner with organizations that share our commitment to sustainable development and social responsibility, and strive to promote sustainable practices in our users as well.
+ <div>
+    <img src="./Images/sdg3.png" alt="Good Health and Well-Being">
+    <img src="./Images/sdg5.png" alt="Gender Equality">
+    <img src="./Images/sdg6.png" alt="Clean Water and Sanitation">
+    <img src="./Images/sdg11.png" alt="Sustainbale cities and communities">
+</div>
 
 <!-- CONTRIBUTING -->
 
