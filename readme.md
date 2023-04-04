@@ -43,7 +43,7 @@
            <p></p>
          </details>
 
-![Home page](./images/home.jpg)
+![Home page](Images/home.png)
 
 > Public toilets cause more problems than providing
 > solution to the public users, due to their lack of
@@ -54,25 +54,25 @@
 > > Our Home page has two arrow keys
 > > left and right which give access to other pages like login, main page, maps and about us.
 
-![Main page](./images/main.jpg)
+![Main page](Images/main.png)
 
 > <span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) _Home_:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has 5 icons on its left corner all leading you on different page.
 
-![login](./images/login.jpg)
+![login](Images/login.jpg)
 
 we have created sign in/up interface page backed with the power of django framework .
 
 > > <span style="font-family: 'Lucida Console';">We made the login page user friendly so that it remember you, so that you don't have to sign in again and again. </span>
 
-![Gps page](./images/gps.jpg)
+![Gps page](Images/gps.png)
 
 > > > We also integrated gps, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
 
-![Toilet Near me](./images/Toilets near me.jpg)
+![Toilet Near me](Images/toilet.png)
 
 > > > You can also put your location manually and this page will show all the public toilets near you and their ratings on the scale from 1 to 5. You can also read reviews of other people who used the toilet earlier. On bottom you can also add your own review. Again access to all other pages are given on this page.
 
-![Map page](./images/map.jpg)
+![Map page](Images/map.png)
 
 > > > Our site also have map feature to give you overview about oublic restrooms around you and your route of journey.
 
@@ -84,7 +84,7 @@ we have created sign in/up interface page backed with the power of django framew
 > <span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) _About Us_:</span>
 > Moving in homepage further will give a brief description _about_ our team. Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage.
 
-![About us](./images/about%20us.jpg)
+![About us](Images/about_us.png)
 
 ---
 
@@ -94,13 +94,13 @@ we have created sign in/up interface page backed with the power of django framew
 
 ---
 
-> <span style="color:gold; font-family: Babas; font-size: 1.5em;">5) Sustainable Goals:</span>
+## <span style="color: #f2cf4a; font-family: Babas; font-size: 1.2em;"> Sustainable Goals:</span>
 > At Toi-Link, we are committed to supporting the United Nations Sustainable Development Goals (SDGs) through our website. We believe that access to clean and safe public restrooms is not only a basic human need, but also a crucial aspect of sustainable development. To that end, we have incorporated sustainable practices into our website design and operations. We partner with organizations that share our commitment to sustainable development and social responsibility, and strive to promote sustainable practices in our users as well.
  <div>
-    <img src="./Images/sdg3.png" alt="Good Health and Well-Being">
-    <img src="./Images/sdg5.png" alt="Gender Equality">
-    <img src="./Images/sdg6.png" alt="Clean Water and Sanitation">
-    <img src="./Images/sdg11.png" alt="Sustainbale cities and communities">
+    <img src="Images/sdg3.png" alt="Good Health and Well-Being">
+    <img src="Images/sdg5.png" alt="Gender Equality">
+    <img src="Images/sdg6.png" alt="Clean Water and Sanitation">
+    <img src="Images/sdg11.png" alt="Sustainbale cities and communities">
 </div>
 
 <!-- CONTRIBUTING -->
